@@ -3,4 +3,8 @@
     <string name="device_name">HUAWEI</string>
     <string name="device_model">SNE-LX1</string>
     <string name="device_os">android</string>
+    <string name="add">add</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="fiberhgw_tpa96c_2_4ghz">FiberHGW_TPA96C_2.4GHz</string>
 </resources>

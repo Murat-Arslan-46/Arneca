@@ -1,8 +1,10 @@
 package com.marslan.myfirstapp
 
 data class DataModel(
-    val deviceId: Int,
+    val id : Int,
+    val iconID: Int,
     val deviceName: String,
-    val device_model: String,
-    val device_os: String
+    val deviceModel: String,
+    val deviceOS: String
+
 )
